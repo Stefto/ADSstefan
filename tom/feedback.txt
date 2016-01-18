@@ -1,0 +1,50 @@
+ml04_irisClassifier:
+
+for your 'for loop' you could also use this:
+for i in range(0, 2):
+
+Your code is very readable and easy to understand. kudos
+
+ml05_SVMFaceRecognition
+
+your print_faces was very cleanly and effectively done.
+Your face recognition is pretty good :).
+
+ML06_NBTinyLang
+
+Your randomface is build in a easy and convenient way.
+i really like how you show your current state (of the variables) and the end of each block.
+Looks good to me all in all.
+
+ML07_DTTitanic
+
+no remarks, can't find anything to comment on.
+
+ML10_Regression
+
+A different approach than i took, but just as effective, if not more.
+You might want to add some comments for read abillity later on.
+
+side note: you're going to get a better grade than i do apparently ;)
+
+ML12_kMeans
+
+If you're practising coding it is a good idea to leave earlier code commented for future reference.
+In a production zone you might not wanna do it.
+
+i'm going to need your feedback for the next one, i completely screwed that one up XD.
+
+ML13_final
+
+wine:
+different approach than i did.
+I think your red dots don't show up because you of range function, i'm not sure tough.
+overal looks good, i had not considered the sgdc classifier
+
+heart disease:
+why did you not try to use some other algorithms, like Naive bayes for example?
+Tough i'm glad to see we ended up with the same result :p.
+
+I hope this helps,
+
+Stefan van den Elsen
